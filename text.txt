@@ -1,2 +1,4 @@
 modifying in parent\submodule_child\test.txt
 first modifying
+modifying in git_submodule_child\test.txt
+second modifying
