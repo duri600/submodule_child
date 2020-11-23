@@ -1,0 +1,2 @@
+modifying in parent\submodule_child\test.txt
+first modifying
